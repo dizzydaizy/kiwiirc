@@ -31,7 +31,7 @@
     "irc-framework": "^4.12.0",
     "json5": "^2.2.0",
     "murmurhash3js": "^3.0.1",
-    "strftime": "^0.10.0",
+    "strftime": "^0.10.1",
     "tinycon": "^0.6.8",
     "vue": "^2.6.14",
     "vue-virtual-scroller": "^1.0.10",
