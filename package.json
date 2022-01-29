@@ -23,7 +23,7 @@
     "font-awesome": "^4.7.0",
     "font-awesome-webpack-4": "^1.0.0",
     "htmlparser2": "^6.1.0",
-    "i18next": "^20.6.1",
+    "i18next": "^21.6.5",
     "i18next-conv": "^10.2.0",
     "i18next-xhr-backend": "^3.2.2",
     "intersection-observer": "^0.12.0",
